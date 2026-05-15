@@ -2,6 +2,8 @@
 
 An AI-powered interview preparation platform designed to help job seekers improve their communication skills, technical depth, and professional confidence through realistic mock interviews.
 
+[**Live Demo**](https://interwise-client.onrender.com/)
+
 ## Features
 
 - **AI-Powered Mock Interviews**: Role-based interviews with smart follow-up questions
